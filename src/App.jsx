@@ -5,7 +5,7 @@ import ContactMe from "./components/ContactMe";
 
 function App() {
   return (
-    <div className="bg-red-100 min-h-screen">
+    <div className="bg-orange-100 min-h-screen">
       <Header />
       <main>
         <Introduce />
